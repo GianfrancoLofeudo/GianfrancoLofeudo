@@ -2,9 +2,9 @@
 
   I am studying to be a programmer at UTN - Universidad Tecnológica Nacional. On the other hand 
   
-  I am also self studying Web Development with the MERN Stack :pencil:. I’m currently learning React.js, Node.js and C# (.NET).
+  I am also self studying Web Development with the MERN Stack :pencil:. I’m currently learning React.js, Node.js.
   
-  Rigth now I am a RPA Developer in Smarthis SRL, certified as a Advanced Developer in UiPath. 
+  Rigth now I am a RPA Developer / Business Analyst in Smarthis SRL. 
   
   Helping companies from all over the world to grow through digital transformation!! :rocket: :rocket:
   
