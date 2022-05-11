@@ -1,6 +1,6 @@
-- 👋 Hi, I am @GianfrancoLofeudo, welcome! I am 27 years old and I am from :round_pushpin: Buenos Aires, Argentina.
+- 👋 Hi, I am @GianfrancoLofeudo, welcome! I am 28 years old and I am from :round_pushpin: Buenos Aires, Argentina.
 
-  I am studying to be a programmer at UTN - Universidad Tecnológica Nacional. On the other hand 
+  I am studying to be a programmer at UADE - Universidad Argentina de la Empresa. On the other hand 
   
   I am also self studying Web Development with the MERN Stack :pencil:. I’m currently learning React.js, Node.js.
   
